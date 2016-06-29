@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LessonThreeProject</string>
+
+    <string name="intro_title">The Quiz</string>
+    <string name="intro_subtitle">Test your Android knowledge</string>
+    <string name="intro_detailstitle">Directions</string>
+    <string name="intro_details">There are five questions in the quiz.  Answer the question, check your answer, and go to the next question.  \nClick start to begin!</string>
+
+
+    <string name="button_startquiz">Start Quiz</string>
+    <string name="button_checkanswer">Check Answer</string>
+    <string name="button_nextquestion">Next Question</string>
+    <string name="button_restart">Restart Quiz</string>
+    <string name="button_finish">Finish</string>
+
+    <string name="response_label">Finish</string>
+    <string name="response_hint">Finish</string>
+
+
+    <string name="error_noselection">Please select an answer</string>
+    <string name="response_positive">Right answer, great work!</string>
+    <string name="response_negative">Incorrect, try again next time!</string>
+
+
+    <string name="question_one">Which view displays an arbitrary image, such as an icon?</string>
+    <string name="question_two">Which view is a layout where the positions of the children can be described in relation to each other or to the parent?</string>
+    <string name="question_three">Which view is a layout that arranges its children in a single column or a single row?</string>
+    <string name="question_four">Which of the following are Views (check all that apply)</string>
+    <string name="question_five">When designing a layout, what is a view that is commonly used to display text?</string>
+
+    <string name="answer_textview">TextView</string>
+    <string name="answer_imageview">ImageView</string>
+    <string name="answer_linearlayout">LinearLayout</string>
+    <string name="answer_relativelayout">RelativeLayout</string>
+
+    <string name="complete_title">Quiz Complete</string>
+    <string name="complete_subtitle">Congrats!  You completed the quiz!!</string>
+    <string name="complete_scoretitle">Score</string>
+
+
+
+</resources>
